@@ -1,0 +1,7 @@
+pnr_no,name,age,gender,phone_no,train_name,train_number,train_type,journey_day,journey_class,coach,seat,ticket_fare,train_departure_time,train_reach_time,origin,destination
+,,,,,,,,,,,,,,,,
+4520877996.0,Test1,37.0,Female,9673846598.0,NEW DELHI - PURI Purushottam SF Express,12802.0,Superfast,Wednesday,AC 2 Tier(2A),C,60.0,472.5,22:15,05:25,NEWDELHI,PURI
+4520877996.0,Test3,29.0,Female,9673846598.0,NEW DELHI - PURI Purushottam SF Express,12802.0,Superfast,Wednesday,AC 2 Tier(2A),B,50.0,472.5,22:15,05:25,NEWDELHI,PURI
+8787134858.0,Test5,42.0,Male,9752386158.0,CHENNAI - UTTAR PRADESH SF Express,12078.0,Superfast,Monday,Sleeper(SL),A,11.0,441.0,13:28,3:40,CHENNAI,UTTARPRADESH
+8787134858.0,Test6,40.0,Female,9752386158.0,CHENNAI - UTTAR PRADESH SF Express,12078.0,Superfast,Monday,Sleeper(SL),A,41.0,441.0,13:28,3:40,CHENNAI,UTTARPRADESH
+9097448708.0,Test7,32.0,Male,7826354819.0,MUMBAI CST - HOWRAH Gitanjali SF Express,12859.0,Superfast,Tuesday,AC First Class(1A),A,57.0,483.0,06:00,12:30,MUMBAI,HOWRAH

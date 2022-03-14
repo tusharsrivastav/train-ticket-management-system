@@ -1,0 +1,12 @@
+train_name,train_number,train_type,train_run_days,train_departure_time,train_arrival_time,train_origin,train_destination
+MUMBAI CENTRAL - AHMEDABAD AC Duronto Exp,12267.0,Duronto,"M,T,W,T,F,S,S",23:25,05:55,Mumbai,Ahmedabad
+AHMEDABAD - MUMBAI CENT AC Duronto Exp,12268.0,Duronto,"M,T,W,T,F,S,S",23:40,06:00,Ahmedabad,Mumbai
+MUMBAI CENTRAL - NEW DELHI Rajdhani Express,12951.0,Rajdhani,"M,T,W,T,F,S,S",16:35,08:35,Mumbai,New Delhi
+Agra Cantt - Delhi H Nizamuddin Gatimaan Express,12049.0,Shatabdi,"M,T,W,T,S,S",17:50,19:30,Agra,Delhi
+Delhi H Nizamuddin - Agra Cantt Gatimaan Express,12050.0,Shatabdi,"M,T,W,T,S,S",08:10,09:50,Delhi,Agra
+PURI - NEW DELHI Purushottam SF Express,12801.0,SUPERFAST,"M,T,W,T,F,S,S",21:45,04:50,Puri,New Delhi
+NEW DELHI - PURI Purushottam SF Express,12802.0,SUPERFAST,"M,T,W,T,F,S,S",22:15,05:25,New Delhi,Puri
+MUMBAI CST - HOWRAH Gitanjali SF Express,12859.0,SUPERFAST,"M,T,W,T,F,S,S",06:00,12:30,Mumbai,Howrah
+YESVANTPUR - HOWRAH SF Express,12864.0,SUPERFAST,"M,T,W,T,F,S,S",19:35,06:25,Yesvantpur,Howrah
+CHENNAI - UTTAR PRADESH SF Express,12078.0,Superfast,"M,T,F",13:28,03:40,Chennai,Uttar Pradesh
+,,,,,,,
